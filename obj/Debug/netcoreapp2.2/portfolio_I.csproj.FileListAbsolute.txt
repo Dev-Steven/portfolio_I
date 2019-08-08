@@ -1,0 +1,14 @@
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/bin/Debug/netcoreapp2.2/portfolio_I.deps.json
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/bin/Debug/netcoreapp2.2/portfolio_I.runtimeconfig.json
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/bin/Debug/netcoreapp2.2/portfolio_I.runtimeconfig.dev.json
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/bin/Debug/netcoreapp2.2/portfolio_I.dll
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/bin/Debug/netcoreapp2.2/portfolio_I.pdb
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/portfolio_I.csprojAssemblyReference.cache
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/portfolio_I.csproj.CoreCompileInputs.cache
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/portfolio_I.RazorAssemblyInfo.cache
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/portfolio_I.RazorAssemblyInfo.cs
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/portfolio_I.AssemblyInfoInputs.cache
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/portfolio_I.AssemblyInfo.cs
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/portfolio_I.RazorTargetAssemblyInfo.cache
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/portfolio_I.dll
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/portfolio_I.pdb
