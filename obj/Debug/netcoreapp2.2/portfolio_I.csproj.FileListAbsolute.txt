@@ -12,3 +12,14 @@
 /Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/portfolio_I.RazorTargetAssemblyInfo.cache
 /Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/portfolio_I.dll
 /Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/portfolio_I.pdb
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/bin/Debug/netcoreapp2.2/portfolio_I.Views.dll
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/bin/Debug/netcoreapp2.2/portfolio_I.Views.pdb
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/portfolio_I.TagHelpers.input.cache
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/portfolio_I.TagHelpers.output.cache
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/portfolio_I.RazorCoreGenerate.cache
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/Razor/Views/Index/Index.g.cshtml.cs
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/portfolio_I.RazorTargetAssemblyInfo.cs
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/portfolio_I.Views.pdb
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/portfolio_I.csproj.CopyComplete
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/Razor/Views/Index/Projects.g.cshtml.cs
+/Users/stevenchung/Documents/coding_dojo/c#_stack/asp_mvc_I/portfolio_I/obj/Debug/netcoreapp2.2/Razor/Views/Index/Contact.g.cshtml.cs

@@ -2941,6 +2941,22 @@
     "CSharpLanguageVersion": 703
   },
   "RootNamespace": "portfolio_I",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "Views/Index/Index.cshtml",
+      "TargetPath": "Views/Index/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Index/Contact.cshtml",
+      "TargetPath": "Views/Index/Contact.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Index/Projects.cshtml",
+      "TargetPath": "Views/Index/Projects.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.1"
 }

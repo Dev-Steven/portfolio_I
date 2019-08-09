@@ -1,0 +1,38 @@
+.body {
+    display: inline-block;
+}
+
+.left {
+    display: inline-block;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.right {
+    display: inline-block;
+    vertical-align: top;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.proj {
+    border: 1px solid black;
+    height: 350px;
+    overflow: scroll;
+    display: block;
+}
+
+.project {
+    display: block;
+}
+
+.one {
+    display: inline-block;
+}
+
+.two {
+    display: inline-block;
+    vertical-align: top;
+}
